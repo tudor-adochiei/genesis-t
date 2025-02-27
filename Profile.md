@@ -2,4 +2,4 @@
 Welcome to my GitHub profile!
 ```
 
-![profile.md file screenshot](/images/my-profile-file.png)
+![profile.md file screenshot](/images/me-xd.png)
